@@ -2,7 +2,7 @@
 #   gem install postgresql3
 #
 #   Ensure the postgresql 3 gem is defined in your Gemfile
-#   gem 'postgresql3'
+#   gem 'postgresql'
 #
 default: &default
   adapter: postgresql
